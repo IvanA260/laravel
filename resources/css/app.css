@@ -1,0 +1,21 @@
+.h-pantalla{
+	height: 100vh;
+}
+
+.blanco{
+	color: white;
+}
+
+.color-pagina{
+	color: rgb(93,184,64);
+}
+
+span{
+	font-size: 75%;
+	color: rgb(93,184,64);
+}
+
+body{
+	background: url(../../public/img/fondoO.png) no-repeat fixed;
+	background-size: cover;
+}
